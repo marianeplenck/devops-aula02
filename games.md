@@ -1,3 +1,3 @@
-não jogo1
-não jogo2
-não jogo3
+Candy Crush Saga
+paciência spider
+PINBALL
