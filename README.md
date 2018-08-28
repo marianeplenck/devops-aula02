@@ -1,4 +1,5 @@
 # devops-aula02
 Jennifer Aniston
-Kate Hudson
+kate Hudsonnnnnnn
 Fernanda Montenegro
+travis fimmel
