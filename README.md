@@ -1,5 +1,5 @@
 # devops-aula02
-Angelina Jolie 
-Joselitoo
-Johnny Depp
-Jason Statham
+Sandra Bullock
+Jennifer Aniston
+Angelina Jolie
+
