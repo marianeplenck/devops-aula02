@@ -1,5 +1,5 @@
 # devops-aula02
 Sandra Bullock
-Jennifer Aniston
+Scarlett Johansson
 Angelina Jolie
-
+Cameron Diaz
